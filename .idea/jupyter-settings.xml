@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/Intelligent_Data_ngineering_homework2.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkName" value="" />
+              <option name="environmentVariables">
+                <map>
+                  <entry name="DeepSeek_API_KEY" value="sk-a4c3175702a04b07b781ab8a5bf7a76b" />
+                </map>
+              </option>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
